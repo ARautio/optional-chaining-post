@@ -12,6 +12,7 @@ This repository shows a simple example how optional chaining can be set up when 
 To run application
 
 > npm install
+
 > npm run dev
 
 and open browser from http://localhost:1234
@@ -19,9 +20,11 @@ and open browser from http://localhost:1234
 To build application
 
 > npm install
+
 > npm run build
 
 And to test
 
 > npm install
+
 > npm run test
