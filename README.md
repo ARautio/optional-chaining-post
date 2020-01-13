@@ -2,6 +2,8 @@
 
 This repository shows a simple example how optional chaining can be set up when developing with React. We use babel and babel plugin for optional chaining to handle new syntax and parcelJS to simplify the build process. The same babel configuration would work with webpack too.
 
+*Note that after Babel 7.8.0 optional chaining has been part of the base package.*
+
 ## The key parts
 
 * Check .babelrc and package.json for required packages to handle optional chainging.
