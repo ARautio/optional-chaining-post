@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App creates list of items based on given object 1`] = `
+<div
+  style={
+    Object {
+      "paddingLeft": "4px",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "paddingLeft": "4px",
+      }
+    }
+  >
+    <p>
+      FrontPage
+    </p>
+    <div
+      style={
+        Object {
+          "paddingLeft": "4px",
+        }
+      }
+    >
+      <p>
+        Dashboard
+      </p>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          Most used items
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          Recently added items
+        </p>
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "paddingLeft": "4px",
+        }
+      }
+    >
+      <p>
+        Recent News
+      </p>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          News from developer
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          News from community
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "paddingLeft": "4px",
+      }
+    }
+  >
+    <p>
+      Items
+    </p>
+    <div
+      style={
+        Object {
+          "paddingLeft": "4px",
+        }
+      }
+    >
+      <p>
+        List Items
+      </p>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          By Date
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "paddingLeft": "4px",
+          }
+        }
+      >
+        <p>
+          By Location
+        </p>
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "paddingLeft": "4px",
+        }
+      }
+    >
+      <p>
+        Edit Items
+      </p>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "paddingLeft": "4px",
+      }
+    }
+  >
+    <p>
+      Logout
+    </p>
+  </div>
+</div>
+`;
